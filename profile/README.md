@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+**Project Euler Solutions** - The Take of an Accountant by education
+
 <!--
 
 **Here are some ideas to get you started:**
