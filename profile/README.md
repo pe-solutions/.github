@@ -2,7 +2,7 @@
 
 **Project Euler Solutions** - The Take of an _Accountant by education_
 
-Logo
+<p align="center"><img src="logo.png"></p>
 
 [Project Euler Website](https://projecteuler.net/)
 
