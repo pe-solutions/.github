@@ -1,5 +1,5 @@
 
-## **Project Euler Solutions**
+## Project Euler Solutions
 
 <p><img src="logo.png"></p>
 
