@@ -1,11 +1,9 @@
 
 ## **Project Euler Solutions**
 
-The Take of an _Accountant by education_
-
-
 <p><img src="logo.png"></p>
 
+The Take of an _Accountant by education_
 
 [Project Euler Website](https://projecteuler.net/)
 
