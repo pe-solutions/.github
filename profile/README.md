@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**Project Euler Solutions** - The Take of an Accountant by education
+**Project Euler Solutions** - The Take of an _Accountant by education_
 
 <!--
 
