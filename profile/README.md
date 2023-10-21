@@ -1,7 +1,10 @@
 
-**Project Euler Solutions** - The Take of an _Accountant by education_
+## **Project Euler Solutions**
 
-## <p><img src="logo.png"></p>
+The Take of an _Accountant by education_
+
+
+<p><img src="logo.png"></p>
 
 
 [Project Euler Website](https://projecteuler.net/)
