@@ -2,6 +2,8 @@
 
 **Project Euler Solutions** - The Take of an _Accountant by education_
 
+Logo
+
 [Project Euler Website](https://projecteuler.net/)
 
 <!--
