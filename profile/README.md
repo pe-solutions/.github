@@ -1,9 +1,9 @@
 
 ## Project Euler Solutions
 
-<p><img src="https://github.com/pe-solutions/.github/blob/main/profile/logo.png"></p>
-
 The Take of an _Accountant by education_
+
+<p><img src="https://github.com/pe-solutions/.github/blob/main/profile/logo.png"></p>
 
 [Project Euler Website](https://projecteuler.net/)
 
