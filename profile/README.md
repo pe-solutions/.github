@@ -7,7 +7,7 @@ The Take of an _Accountant by education_
 
 [Project Euler Website](https://projecteuler.net/)
 
-<p><img src="https://projecteuler.net/profile/mavotroky.png"></p>
+<p><img src="pe-badge.png"></p>
 
 <!--
 
