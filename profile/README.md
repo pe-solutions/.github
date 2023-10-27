@@ -7,7 +7,7 @@ The Take of an _Accountant by education_
 
 <p><img src="https://github.com/pe-solutions/.github/blob/main/profile/logo.png"></p>
 
-<p><img src="["https://github.com/pe-solutions/.github/blob/main/profile/pe-badge.png"></p>
+<p><img src="https://github.com/pe-solutions/.github/blob/main/profile/pe-badge.png"></p>
 
 <!--
 
