@@ -3,6 +3,8 @@
 
 The Take of an _Accountant by education_
 
+Collection of solutions to Project Euler problems, written in Rust, D and Pari/GP.
+
 [Project Euler Website](https://projecteuler.net/)
 
 <p><img src="https://github.com/pe-solutions/.github/blob/main/profile/logo.png"></p>
