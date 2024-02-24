@@ -3,7 +3,7 @@
 
 The Take of an _Accountant by education_
 
-Collection of solutions to [Project Euler](https://projecteuler.net/) problems, written in [Rust](https://github.com/pe-solutions/pe-rustlang), [D](https://dlang.org/) and [J]([https](https://code.jsoftware.com/wiki/Guides/GettingStarted)).
+Collection of solutions to [Project Euler](https://projecteuler.net/) problems, written in [Rust](https://github.com/pe-solutions/pe-rustlang), [D](https://dlang.org/) and [J](https://code.jsoftware.com/wiki/Guides/GettingStarted)).
 
 <p><img src="https://github.com/pe-solutions/.github/blob/main/profile/logo.png"></p>
 
