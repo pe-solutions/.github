@@ -7,8 +7,6 @@ Collection of solutions to [Project Euler](https://projecteuler.net/) problems, 
 
 <p><img src="https://github.com/pe-solutions/.github/blob/main/profile/logo.png"></p>
 
-<p><img src="https://github.com/pe-solutions/.github/blob/main/profile/pe-badge.png"></p>
-
 <!--
 
 **Here are some ideas to get you started:**
